@@ -1,0 +1,10 @@
+site_name: Cybersecurity — Alexander Lindholm
+site_description: "Repository about cybersecurity"
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - The Threat Landscape: threat-landscape.md
+theme:
+  name: material
+  palette:
+    scheme: slate
